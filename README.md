@@ -2,4 +2,4 @@
 
 Backend Development Assignment
 
-![Example Image](screenshots/Approve Application During Signup.png)
+![Example Image 1](Froker-Backend\screenshots\Approve Application During Signup.png)
